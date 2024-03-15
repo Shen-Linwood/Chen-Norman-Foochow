@@ -6,7 +6,7 @@
 
 ### 食用指南 User Guide
 #### 安装
-安装 RIME 输入法后，添加此输入方案。可在【輸入法設定】-【獲取更多輸入方案…】中调出的命令行窗口中输入本 repo 网址 `https://github.com/Shen-Linwood/Chen-Norman-Foochow` 或输入 `Shen-Linwood/Chen-Norman-Foochow` 添加；也可直接将 `chen_norman_foochow.dict.yaml` 和 `chen_norman_foochow.schema.yaml` 文件复制到输入法用户文件夹后，点【重新部署】添加。
+[安装 RIME 输入法](https://rime.im/download/)后，添加此输入方案。可在【輸入法設定】-【獲取更多輸入方案…】中调出的命令行窗口中输入本 repo 网址 `https://github.com/Shen-Linwood/Chen-Norman-Foochow` 或输入 `Shen-Linwood/Chen-Norman-Foochow` 添加；也可直接将 `chen_norman_foochow.dict.yaml` 和 `chen_norman_foochow.schema.yaml` 文件复制到输入法用户文件夹后，点【重新部署】添加。
 
 参见：[說明書 · rime](https://github.com/rime/home/wiki/UserGuide)；[Rime 定製指南 · rime](https://github.com/rime/home/wiki/CustomizationGuide#%E9%87%8D%E6%96%B0%E4%BD%88%E7%BD%B2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95)
 
