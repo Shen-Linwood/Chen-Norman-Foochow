@@ -2,12 +2,11 @@
 schema:
   schema_id: chen_norman_foochow
   name: 陈-罗闽语拼音
-  version: "2.0"
+  version: "3.0"
   author:
     - Shen_Linwood <393692665@qq.com>
   description: |
     陈立鸥、罗杰瑞在《闽语入门》中使用的福州话拼音方案
-    # luna_pinyin.schema.yaml
 # ...
 
 engine:
@@ -27,7 +26,7 @@ engine:
     - table_translator
 
 speller:
-  alphabet: 'aoeiuyqg1234567890_=^/'
+  alphabet: 'AOEIUYQGaoeiuyqg1234567890_=^/'
   delimiter: ' '
   auto_select: true
 
