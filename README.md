@@ -2,7 +2,7 @@
 
 在陈立鸥、罗杰瑞所著的福州话教材《闽语入门》（An Introduction to the Foochow Dialect）中，二位创造了一套福州话的拉丁化拼音体系。本输入方案可以使用美式键盘方便地键入该拼音体系中的一些特殊符号。
 
-本输入法基于 [RIME](https://github.com/rime) 输入法引擎。
+本输入方案基于 [RIME](https://github.com/rime) 输入法引擎。
 
 ### 食用指南 User Guide
 #### 安装
