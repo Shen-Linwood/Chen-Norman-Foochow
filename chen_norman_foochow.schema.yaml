@@ -27,7 +27,7 @@ engine:
     - table_translator
 
 speller:
-  alphabet: 'aoeiuyqg1234567890_=^/'
+  alphabet: 'AOEIUYQGaoeiuyqg1234567890_=^/'
   delimiter: ' '
   auto_select: true
 
