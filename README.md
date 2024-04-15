@@ -52,3 +52,5 @@
 - [福州话教材《闽语入门》- 知乎](https://www.zhihu.com/column/ming-ngy-ik-muong)。
 - [RIME - github](https://github.com/rime)。
 - [RIME | 中州韻輸入法引擎](https://rime.im/)。
+- [真鸟囝输入法](https://www.zingzeu.org/)
+- [福州话教会罗马字输入法](https://github.com/ZySieng/Lo-ma-ci)
