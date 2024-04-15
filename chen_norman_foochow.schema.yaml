@@ -2,7 +2,7 @@
 schema:
   schema_id: chen_norman_foochow
   name: 陈-罗闽语拼音
-  version: "3.0"
+  version: "4.0"
   author:
     - Shen_Linwood <393692665@qq.com>
   description: |
@@ -26,8 +26,8 @@ engine:
     - table_translator
 
 speller:
-  alphabet: 'AOEIUYQGaoeiuyqg1234567890_=^/'
-  delimiter: ' '
+  alphabet: "AOEIUYQGaoeiuyqg1234567890_=^/"
+  delimiter: " '"
   auto_select: true
 
 translator:
