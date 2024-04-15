@@ -1,12 +1,11 @@
 # chen_norman_foochow.dict.yaml
 ---
 name: chen_norman_foochow
-version: "3.0"
+version: "4.0"
 sort: original
 ...
 
-a	aa
-a	a0
+a	a
 ā	a1
 á	a2
 ǎ	a3
@@ -15,8 +14,7 @@ a̱	a_
 a̱	a=
 â	a^
 â	a6
-A	AA
-A	A0
+A	A
 Ā	A1
 Á	A2
 Ǎ	A3
@@ -26,8 +24,7 @@ A̱	A=
 Â	A^
 Â	A6
 #
-o	oo
-o	o0
+o	o
 ō	o1
 ó	o2
 ǒ	o3
@@ -36,8 +33,7 @@ o̱	o_
 o̱	o=
 ô	o^
 ô	o6
-O	OO
-O	O0
+O	O
 Ō	O1
 Ó	O2
 Ǒ	O3
@@ -47,8 +43,7 @@ O̱	O=
 Ô	O^
 Ô	O6
 #
-e	ee
-e	e0
+e	e
 ē	e1
 é	e2
 ě	e3
@@ -68,8 +63,7 @@ E̱	E=
 Ê	E^
 Ê	E6
 #
-i	ii
-i	i0
+i	i
 ī	i1
 í	i2
 ǐ	i3
@@ -89,8 +83,7 @@ I̱	I=
 Î	I^
 Î	I6
 #
-u	uu
-u	u0
+u	u
 ū	u1
 ú	u2
 ǔ	u3
@@ -110,8 +103,7 @@ U̱	U=
 Û	U^
 Û	U6
 #
-y	yy
-y	y0
+y	y
 ȳ	y1
 ý	y2
 y̌	y3
@@ -131,8 +123,7 @@ Y̱	Y=
 Ŷ	Y^
 Ŷ	Y6
 #
-ø	o//
-ø	o/0
+ø	o/
 ø̄	o/1
 ǿ	o/2
 ø̌	o/3
@@ -141,8 +132,7 @@ Y̱	Y=
 ø̱	o/=
 ø̂	o/^
 ø̂	o/6
-ø	qq
-ø	q0
+ø	q
 ø̄	q1
 ǿ	q2
 ø̌	q3
@@ -151,8 +141,7 @@ Y̱	Y=
 ø̱	q=
 ø̂	q^
 ø̂	q6
-Ø	O//
-Ø	O/0
+Ø	O/
 Ø̄	O/1
 Ǿ	O/2
 Ø̌	O/3
@@ -161,8 +150,7 @@ Y̱	Y=
 Ø̱	O/=
 Ø̂	O/^
 Ø̂	O/6
-Ø	QQ
-Ø	Q0
+Ø	Q
 Ø̄	Q1
 Ǿ	Q2
 Ø̌	Q3
@@ -172,8 +160,7 @@ Y̱	Y=
 Ø̂	Q^
 Ø̂	Q6
 #
-g	gg
-g	g0
+g	g
 ḡ	g1
 ǵ	g2
 ǧ	g3
@@ -182,8 +169,7 @@ g̠	g_
 g̠	g=
 ĝ	g^
 ĝ	g6
-G	GG
-G	G0
+G	G
 Ḡ	G1
 Ǵ	G2
 Ǧ	G3
